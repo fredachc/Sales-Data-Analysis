@@ -1,4 +1,9 @@
-# Sales Data Analysis Project
+#Sales Data Analysis Project
+
+A data analysis project using Excel and PostgreSQL to evaluate sales performance, identify profitability drivers, and provide business recommendations.
+
+##Dashboard Preview
+![Dashboard](images/Sales Performance Dashboard Overview.png)
 
 ## Objective
 This project analyzes sales performance using Excel and PostgreSQL.
