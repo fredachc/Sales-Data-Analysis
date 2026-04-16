@@ -1,4 +1,4 @@
-Sales Data Analysis Project
+#Sales Data Analysis Project#
 
 /-Objective-/
 This project aims to analyze sales performance using SQL and Excel to identify key business insights across product categories, regions, and discount strategies.
