@@ -21,6 +21,6 @@ This project analyzes sales performance using Excel and PostgreSQL.
 - Discount Impact
 
 ## Key Insights
-- Technology category generates higher profit margins.
-- Higher discounts are associated with lower profitability.
-- Regional performance varies across markets.
+- Technology category delivers the highest profit margin.
+- High discount levels are negatively correlated with profitability.
+- Certain regions generate strong revenue but lower profit efficiency.
