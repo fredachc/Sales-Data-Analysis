@@ -2,8 +2,8 @@
 
 A data analysis project using Excel and PostgreSQL to evaluate sales performance, identify profitability drivers, and provide business recommendations.
 
-##Dashboard Preview
-![Dashboard](images/Sales Performance Dashboard Overview.png)
+## Dashboard Preview
+![Dashboard](images/Sales%20Performance%20Dashboard%20Overview.png)
 
 ## Objective
 This project analyzes sales performance using Excel and PostgreSQL.
@@ -24,6 +24,3 @@ This project analyzes sales performance using Excel and PostgreSQL.
 - Technology category generates higher profit margins.
 - Higher discounts are associated with lower profitability.
 - Regional performance varies across markets.
-
-## Dashboard Preview
-![Dashboard](images/Sales%20Performance%20Dashboard%20Overview.png)
